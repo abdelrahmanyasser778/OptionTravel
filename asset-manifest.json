@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/optionTravel/static/css/main.d7da34c1.css",
+    "main.js": "/optionTravel/static/js/main.dccf1082.js",
+    "static/media/video (2).mp4": "/optionTravel/static/media/video (2).52e8933b6c462b590514.mp4",
+    "static/media/undraw_off_road_-9-oae.svg": "/optionTravel/static/media/undraw_off_road_-9-oae.6927d923f7728d728112c606338243b9.svg",
+    "static/media/undraw_travel_plans_li01.svg": "/optionTravel/static/media/undraw_travel_plans_li01.c35314f1f4902b187d6d8f9e89c9bea5.svg",
+    "static/media/undraw_informed_decision_p2lh.svg": "/optionTravel/static/media/undraw_informed_decision_p2lh.06bf339cd9fdec5ae1a0d4e023e27521.svg",
+    "static/media/undraw_a_moment_to_relax_bbpa.svg": "/optionTravel/static/media/undraw_a_moment_to_relax_bbpa.ef8f96f0babc586eaafe35a64494131e.svg",
+    "static/media/undraw_booked_re_vtod.svg": "/optionTravel/static/media/undraw_booked_re_vtod.95fa313fb5ddbbb4899db951f166746e.svg",
+    "index.html": "/optionTravel/index.html",
+    "main.d7da34c1.css.map": "/optionTravel/static/css/main.d7da34c1.css.map",
+    "main.dccf1082.js.map": "/optionTravel/static/js/main.dccf1082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.dccf1082.js"
+  ]
+}
